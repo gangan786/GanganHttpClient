@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=top.ganganmaster.ganganhttpclient.autoconfigure.GanganHttpClientRegisterAutoConfiguration
+org.springframework.boot.env.EnvironmentPostProcessor=top.ganganmaster.ganganhttpclient.autoconfigure.GanganHttpClientRegisterAutoConfiguration
